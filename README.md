@@ -6,5 +6,5 @@ The next goal is to create incoporate a database to save sensor data across a lo
 
 https://devpost.com/software/what-the-crop
 
-Web development detail: https://github.com/stonecyan/WhatTheCrop
+Web development detail: https://github.com/stonecyan/WhatTheCrop\n
 Hardware detail: https://github.com/ali-asgar/WhatTheCrop
